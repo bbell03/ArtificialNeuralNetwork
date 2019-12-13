@@ -1,7 +1,7 @@
 # artificial neural networks
-# COMP 131: Artificial Intelligence
-# Homework 5: Artificial Neural Networks
-# Tufts University
+###### COMP 131: Artificial Intelligence
+###### Homework 5: Artificial Neural Networks
+###### Tufts University
 
 ### Author(s): Brandon Bell and Yuchen Yang
 
