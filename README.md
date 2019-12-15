@@ -30,15 +30,20 @@
   #### FUNCTION(S) IMPLEMENTED INCLUDE:
 
   Class Member Functions:
+
       train
       - trains the neural net with 100 individuals randomly selected
         from data set using forward propogation and backward propogation
+
+      predict_one
       predict
       - uses training data to predict plant type based on length and width of
         petals and sepals
+
       predict_and_calculate_accuracy
       - uses training data to predict plant type and calculates accuracy
-      predict_one
+
+
 
       encodersetosa(Class)
       - Returns true if input is Iris-setosa
