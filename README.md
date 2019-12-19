@@ -20,7 +20,7 @@
 
   We use various helper functions in addition to a Neural Network class complete with its own member functions to implement the solution.
 
-  Our Neural Network randomly selects 100/150 data entries in order to train itself, and then tests the validity of the training process on the remaining 50 individuals. It prints the accuracy score of the prediction on both trainset and testset. And the average accuracy score reachs a 0.96.
+  Our Neural Network randomly selects 100/150 data entries in order to train itself, and then tests the validity of the training process on the remaining 50 individuals. It prints the accuracy score of the prediction on both trainset and testset. And the average accuracy score reachs a 0.97.
 
   Helper functions include boolean return functions for each of the three types of plant, and a sigmoid function that serves as the activation function for this artificial neural net.
 
@@ -28,7 +28,7 @@
 
   #### USAGE:
 
-  Run the .py file in any Python IDE.
+  Put the ANN - Iris data.txt and ANN - Iris description.txt in the same folder with ANN.py. Run the .py file in any Python IDE.
 
   #### FUNCTION(S) IMPLEMENTED INCLUDE:
 
